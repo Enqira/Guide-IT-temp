@@ -1,10 +1,14 @@
 * {
-  font-family: 'Space Mono', monospace;
+  font-family: "Space Mono", monospace;
+  font-weight: 600;
   color: black;
 }
 
 a {
   text-decoration: none;
+}
+a:hover {
+  color: #5389a7;
 }
 
 .bullet-points {
