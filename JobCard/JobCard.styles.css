@@ -1,0 +1,20 @@
+* {
+  font-family: 'Space Mono', monospace;
+}
+
+.job-card-container {
+  background-color: transparent;
+  width: 400px;
+  height: 500px;
+  padding: 15px;
+}
+
+.job-card-container h1 {
+  font-size: 2.4rem;
+}
+
+.job-card-container p {
+  background-color: #efefef;
+  height: 80%;
+  padding: 15px;
+}
