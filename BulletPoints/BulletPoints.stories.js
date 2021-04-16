@@ -8,12 +8,5 @@ export default {
 };
 
 export const bulletPoints = () => (
-  <BulletPoints
-    firstTitle={text('firstTitle', 'first title')}
-    secondTitle={text('secondTitle', 'second title')}
-    thirdTitle={text('thirdTitle', 'third title')}
-    firstLink={text('firsLink', 'first link')}
-    secondLink={text('secondLink', 'second link')}
-    thirdLink={text('thirdLink', 'third link')}
-  />
+  <BulletPoints title={text('job title', 'Full stack development')} />
 );
